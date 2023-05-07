@@ -35,7 +35,7 @@ static GtkWidget *gtk_window = NULL;
 
 static int num_buttons = 0;
 
-static int buttons_per_row = 3;
+static int buttons_per_row = 2;
 static int margin[] = {230, 230, 230, 230};
 static int space[] = {0, 0};
 static gboolean protocol = TRUE;
